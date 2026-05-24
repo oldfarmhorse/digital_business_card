@@ -1,0 +1,6 @@
+{
+  "name": "Digital Business Card",
+  "description": "A mobile-friendly Digital Business Card app with Apple Wallet, Google Wallet, and vCard integrations. Powered by Vercel KV and Vercel Blob.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
